@@ -1,7 +1,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> "Hello, Microverse!"
 
 Additional description about the project and its features.
 
